@@ -1,6 +1,6 @@
 {
-  "version": "1.3.0",
+  "version": "1.4.0",
     "notes": "Ubah urutan menu, pindahkan Tiket Gangguan, rapikan dashboard, tambah riwayat pemasangan update, perbaikan bug update",
-  "download_url": "https://github.com/user-attachments/files/31600540/billing-portal-safenode-1.3.0.zip",
+  "download_url": "https://github.com/user-attachments/files/31601221/billing-portal-safenode-fixed.zip",
     "changelog": [{"tanggal": "2026-08-29", "catatan": ["Ubah urutan menu Customer & pindahkan Tiket Gangguan ke luar grup", "Rapikan tampilan halaman Tiket Gangguan", "Hapus kartu trafik & client aktif di Dashboard", "Tambah Riwayat Pemasangan Update di halaman About", "Perbaiki bug WinError 87 saat pasang update"]}]
 }
