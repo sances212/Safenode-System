@@ -1,6 +1,6 @@
 {
   "version": "1.7.0",
     "notes": "Update Menu Custamer",
-  "download_url": "https://github.com/user-attachments/files/31645752/billing-portal-safenode.zip",
+  "download_url": "https://github.com/sances212/Safenode-System/raw/refs/heads/main/billing-portal-safenode.zip",
     "changelog": [{"tanggal": "2026-08-31", "catatan": ["Mengubah Tampilan Custamer", "Menu Voucher"]}]
 }
