@@ -1,6 +1,6 @@
 {
-  "version": "1.5.0",
-    "notes": "Perbaikan Menu POP Site, Menu Voucher",
+  "version": "1.6.0",
+    "notes": "Update Menu Custamer",
   "download_url": "https://github.com/user-attachments/files/31626675/billing-portal-safenode-hotspot-voucher-menu-updated31.zip",
     "changelog": [{"tanggal": "2026-08-31", "catatan": ["Mengubah Tampilan POP Site", "Menu Voucher"]}]
 }
